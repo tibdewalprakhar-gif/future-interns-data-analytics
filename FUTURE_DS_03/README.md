@@ -1,7 +1,5 @@
 # Marketing Funnel and Conversion Performance Analysis
 
-# Marketing Funnel and Conversion Performance Analysis
-
 ## Objective
 Analyze marketing campaign outcomes and conversion performance, comparing outcomes across customer segments or campaign characteristics.
 
